@@ -2,12 +2,12 @@
 
 <br />
 
-Hi there, I'm **Ground67**, a **Javascript, NodeJS developer** and  **Python** ðŸš€ from Indonesia 
+Hi there, I'm **Ground67**, a **Javascript, NodeJS developer** and  **Python**  from Indonesia 
 
   <img align="right" alt="PNG" src="https://i.ibb.co/3zYnNQ1/20210222-193446.jpg" />
 
 
- « Email  ground6767@gmail.com to reach me.
+Â« Email  ground6767@gmail.com to reach me.
 
 
 **Languages and Tools:**  
@@ -24,4 +24,4 @@ Hi there, I'm **Ground67**, a **Javascript, NodeJS developer** and  **Python** ð
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ground67&theme=radical&layout=compact)
 
- From [GROUND67](https://github.com/ground67)
+ From [GROUND67](https://github.com/ground67)
